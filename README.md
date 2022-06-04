@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @supriyo404
-- 👀 I’m interested in RPA technology, Python, C#, .NET and AI/ML.
-- 🌱 I’m currently learning Java, Spring Boot
-- 💞️ I’m looking to collaborate on any RPA projects
+- 👀 I’m interested in JAVA Microservices with Spring boot.
+- 🌱 I’m currently learning more about Java, Spring Boot
+- 💞️ I’m looking to collaborate on any Spring Boot learning journey.
 - 📫 How to reach me ... mtyamps@gmail.com
 
 <!---
